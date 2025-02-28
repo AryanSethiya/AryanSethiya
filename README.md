@@ -76,10 +76,6 @@
   <a href="https://linkedin.com/in/aryan-sethiya-4b645520a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT39D7ubkIUIrgX1JS/giphy.gif" width="500">
-</p>
-
 ---
 
 🔥 **Exciting projects & collaborations coming soon! Stay tuned!** 🚀  
