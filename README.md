@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Aryan Sethiya</h1>
-<h3 align="center">🚀 Software Developer | AI/ML Enthusiast | Big Data Explorer</h3>
+<h3 align="center">🚀 Software Developer | AI/ML Enthusiast | Data Science Explorer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600">
@@ -71,7 +71,6 @@
 ## 📫 Let's Connect!  
 
 <p align="center">
-  <a href="https://bento.me/aryansethiya"><img src="https://img.shields.io/badge/All%20My%20Links-bento.me-orange?style=for-the-badge"></a>
   <a href="mailto:e22cseu0667@bennett.edu.in"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://github.com/AryanSethiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/aryan-sethiya-4b645520a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
