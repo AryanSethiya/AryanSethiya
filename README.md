@@ -1,58 +1,88 @@
-### Hi 👋, I'm [Your Name]!
+<h1 align="center">Hey there! 👋 I'm Aryan Sethiya</h1>
+<h3 align="center">🚀 Software Developer | AI/ML Enthusiast | Data Science Explorer</h3>
 
-🚀 **Full Stack Developer | Machine Learning Enthusiast | Open Source Contributor**
-
-I specialize in building scalable applications using **Next.js, React, and backend technologies**. Passionate about solving real-world problems, mastering **ML fundamentals**, and exploring the latest tech trends. Currently open to **freelance opportunities and collaborations**!
-
----
-
-### 🌟 About Me:
-- 🏆 **7th Rank** out of 400+ teams in **Smart India Hackathon (SIH) internal competition**
-- 🏅 **Top 10** in **Algohack Hackathon** at Bennett University
-- 🏆 Winner of **Sandbox Startup Competition** at Jaypee Institute of Technology, Noida
-- 💼 **Treasurer (2023-2024)** at Geeks for Geeks BU
-- 📢 **Public Relations & Outreach (2022-2023)** at Geeks for Geeks BU
-- 🎯 **PoC at NSUT Techweek** (2022-2023)
-- 🤝 **PoC at GeeksforGeeks Bennett University**
-
-📫 How to reach me: **your.email@example.com**
-
-🔗 **Portfolio & Socials:** [bento.me/yourprofile](https://bento.me/yourprofile)
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600">
+</p>
 
 ---
 
-### 📌 Languages and Tools:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-...
+## 🔥 About Me  
+💻 **Software Developer & AI/ML Enthusiast** | Passionate about **AI-driven applications & scalable solutions**  
+🏆 **Competitive Programmer** | **500+ DSA problems solved** on LeetCode & other platforms  
+📚 **Exploring Generative AI, LLM Fine-Tuning & NLP**  
+🚀 **Hackathon Winner & Open-Source Contributor**  
+🎯 **Available for AI/ML & Full-Stack Projects**  
 
 ---
 
-### 📊 GitHub Stats:
+## 🛠 Tech Stack  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=react&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Spark-F24E1E?style=for-the-badge&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
 
 ---
 
-### ⚡ Fun Fact:
-🖥️ I’m a **multitasker**, and I can **code a bit too!** 😆
+## 🚀 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSethiya&layout=compact&theme=dark&langs_count=8&hide_border=true" width="400"/>
+</p>
 
 ---
 
-💬 **Let's Connect!**
+## 🚀 Notable Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+### 🗺️ AI-Driven Travel Agent Optimization  
+🔹 Built a Generative AI-powered solution for **itinerary generation** & **chat assistants** using **GROQ API & LLAMA3-8b**  
+🔹 **Tech Stack:** Python, GROQ API, NLP, Open-Source LLMs  
+
+### 🎬 IMDB Review Analysis - RNN  
+🔹 Developed **Deep Learning-based Sentiment Analysis** on **IMDB Dataset** using **RNN, LSTM, and GRU**  
+🔹 Achieved **93% accuracy** & built a **Streamlit-based UI**  
+
+### 📷 Camera Classifier  
+🔹 Built a **real-time image classification model** using **OpenCV & SVM**  
+🔹 Achieved **85% accuracy** in detecting user actions via webcam input  
+
+---
+
+## 🏆 Achievements  
+
+🏅 **Finalist in Luminous Techno-X** (Top 10 out of 30,000+ teams nationwide)  
+🏅 **Top 40 in Voyage Hack by TBO.com** (1,000+ teams nationwide)  
+🏅 **Ranked 7th out of 400+ teams in Smart India Hackathon (SIH)**  
+🏅 **Winner of Sandbox Startup Competition, Jaypee Institute of Technology**  
+🏅 **3-Star Badge on HackerRank in Problem Solving**  
+
+---
+
+## 📫 Let's Connect!  
+
+<p align="center">
+  <a href="mailto:e22cseu0667@bennett.edu.in"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://github.com/AryanSethiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/aryan-sethiya-4b645520a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+🔥 **Exciting projects & collaborations coming soon! Stay tuned!** 🚀  
