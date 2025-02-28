@@ -8,12 +8,11 @@
 ---
 
 ## 🔥 About Me  
-
-- 💻 **Software Developer & AI/ML Enthusiast** | Passionate about **AI-driven applications & scalable solutions**  
-- 🏆 **Competitive Programmer** | **500+ DSA problems solved** on LeetCode & other platforms.  
-- 📚 **Exploring Generative AI, LLM Fine-Tuning & NLP**  
-- 🚀 **Hackathon Winner & Open-Source Contributor**  
-- 🎯 **Available for AI/ML & Full-Stack Projects**  
+💻 **Software Developer & AI/ML Enthusiast** | Passionate about **AI-driven applications & scalable solutions**  
+🏆 **Competitive Programmer** | **500+ DSA problems solved** on LeetCode & other platforms  
+📚 **Exploring Generative AI, LLM Fine-Tuning & NLP**  
+🚀 **Hackathon Winner & Open-Source Contributor**  
+🎯 **Available for AI/ML & Full-Stack Projects**  
 
 ---
 
@@ -44,7 +43,6 @@
 
 ## 🚀 GitHub Stats  
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSethiya&layout=compact&theme=dark&langs_count=8&hide_border=true" width="400"/>
 </p>
@@ -53,17 +51,17 @@
 
 ## 🚀 Notable Projects  
 
-### **🗺️ AI-Driven Travel Agent Optimization**  
-🔹 Built a Generative AI-powered solution for **itinerary generation** & **chat assistants** using **GROQ API & LLAMA3-8b**.  
+### 🗺️ AI-Driven Travel Agent Optimization  
+🔹 Built a Generative AI-powered solution for **itinerary generation** & **chat assistants** using **GROQ API & LLAMA3-8b**  
 🔹 **Tech Stack:** Python, GROQ API, NLP, Open-Source LLMs  
 
-### **🎬 IMDB Review Analysis - RNN**  
-🔹 Developed **Deep Learning-based Sentiment Analysis** on **IMDB Dataset** using **RNN, LSTM, and GRU**.  
-🔹 Achieved **93% accuracy** & built a **Streamlit-based UI**.  
+### 🎬 IMDB Review Analysis - RNN  
+🔹 Developed **Deep Learning-based Sentiment Analysis** on **IMDB Dataset** using **RNN, LSTM, and GRU**  
+🔹 Achieved **93% accuracy** & built a **Streamlit-based UI**  
 
-### **📷 Camera Classifier**  
-🔹 Built a **real-time image classification model** using **OpenCV & SVM**.  
-🔹 Achieved **85% accuracy** in detecting user actions via webcam input.  
+### 📷 Camera Classifier  
+🔹 Built a **real-time image classification model** using **OpenCV & SVM**  
+🔹 Achieved **85% accuracy** in detecting user actions via webcam input  
 
 ---
 
