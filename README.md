@@ -44,10 +44,6 @@
 
 ## 🚀 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanSethiya&show_icons=true&theme=dark&count_private=true&hide_border=true" width="450"/>
-  
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSethiya&layout=compact&theme=dark&langs_count=8&hide_border=true" width="400"/>
