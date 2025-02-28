@@ -42,6 +42,19 @@
 
 ---
 
+## 🚀 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanSethiya&show_icons=true&theme=dark&count_private=true&hide_border=true" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanSethiya&theme=dark&hide_border=true" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSethiya&layout=compact&theme=dark&langs_count=8&hide_border=true" width="400"/>
+</p>
+
+---
+
 ## 🚀 Notable Projects  
 
 ### **🗺️ AI-Driven Travel Agent Optimization**  
